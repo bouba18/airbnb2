@@ -1,0 +1,82 @@
+nav li{
+  display: inline;
+  margin-left: 30px;
+}
+nav li a{
+  text-decoration: none;
+  color: black;
+}
+nav li a:hover{
+  border-bottom: 1px;
+  color: inherit;
+}
+h1{
+  font-size: 48px;
+  font-weight: bolder;
+  color: #ff5a5f;
+}
+.para-head{
+  font-weight: 300;
+  font-size: 47px;
+}
+.search{
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 10vh;
+}
+.search p{
+  margin-left: 2 0px;
+}
+.pics{
+  height: 40vh;
+}
+.form-group{
+  border: 1px solid rgb(145, 143, 147);
+  border-radius: 5px;
+  width: 100%;
+  padding: 5vh 0;
+}
+.btn{
+  float: right;
+  margin-right: 5vh;
+}
+.form-control{
+  border: none;
+  margin-left: 100px;
+}
+.list-head{
+  margin-top: 15px;
+}
+.list-head li:hover{
+  color: #008489;
+  border-bottom: 2px solid #008489;
+}
+.footer{
+  margin-top: 25px;
+}
+select{
+  display:block;
+  width: 50%;
+  background-color: inherit;
+  margin-top: 20px;
+  padding: 10px 20px;
+}
+.list-footer li{
+list-style: none;
+}
+.list-footer li a {
+  text-decoration: none;
+  color: rgb(163, 170, 164);
+}
+.list-footer li a:hover{
+  border-bottom: 1px solid rgb(163, 170, 164);
+}
+.sub-footer p {
+  display: inline;
+}
+.sub-footer{
+  margin-top: 25px;
+}
+.fa{
+  color: rgb(163, 170, 164); 
+}
